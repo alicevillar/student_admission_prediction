@@ -34,8 +34,8 @@ This project is organized in three parts:
 
 
 * PART 1: Data Handling -> Importing Data with Pandas, Cleaning Data, Data description.  
-* PART 2: Data Analysis -> Supervised Machine Learning Techniques: + Decision Tree Model + Support Vector Machines (SVM).  
-* PART 3: Valuation of the Analysis -> Performance measurement (accuracy score method) + K-folds cross validation to evaluate results locally.  
+* PART 2: Data Analysis -> Supervised Machine Learning Technique: + Simple Logistic Regression
+* PART 3: Valuation of the Analysis -> Performance measurement + K-folds cross validation to evaluate results locally.  
     
 
 ## Results
