@@ -12,3 +12,30 @@ effect admission into graduate school. The response variable, admit/don’t admi
 
 
 This repo contains the dataset required for this tutorial, the Jupyter notebook, as well as HTML and Python code for this exercise.
+
+The repository contains a loan eligibility prediction based on a [Kaggle dataset](https://nbviewer.jupyter.org/github/alicevillar/loan-eligibility-prediction/blob/main/loan_prediction.ipynb). 
+The primary goal of this project was to use Decision Tree and Support Vector Machines for predicting loan approval.  
+
+### Quick Start  
+[Check out](          ) a static version of the notebook with Jupyter NBViewer from the comfort of your web browser.
+
+
+## Dependencies 
+ 
+* [Numpy](https://numpy.org/)
+* [Pandas](https://pandas.pydata.org/)
+* [SciKit-Learn](https://scikit-learn.org/)
+* [Matplotlib](https://matplotlib.org/)
+* [Seaborn](https://seaborn.pydata.org/)
+ 
+## Approach 
+
+This project is organized in three parts:
+
+
+* PART 1: Data Handling -> Importing Data with Pandas, Cleaning Data, Data description.  
+* PART 2: Data Analysis -> Supervised Machine Learning Techniques: + Decision Tree Model + Support Vector Machines (SVM).  
+* PART 3: Valuation of the Analysis -> Performance measurement (accuracy score method) + K-folds cross validation to evaluate results locally.  
+    
+
+## Results
