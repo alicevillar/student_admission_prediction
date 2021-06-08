@@ -26,7 +26,7 @@ The purpose of this project is to create and compare different ML models to pred
 The dataset provided has unequal class distribution. This imbalancement was not handled in the tutorial, so it was such a great opportunity for me to fix the imbalanced dataset. After the resampling, I used the Logistic Regression again and, to take the project further, I also used other four algorithms. In conclusion, I created a graphic to compare the accuracies score for the different ML algorithms (Accuracy Comparison Graph).
 
 ## 1.1. Quick Start  
-[Check out]( ) a static version of the notebook with Jupyter NBViewer from the comfort of your web browser.
+[Check out](https://nbviewer.jupyter.org/github/alicevillar/student_admission_prediction/blob/main/predicting_students_admission.ipynb) a static version of the notebook with Jupyter NBViewer from the comfort of your web browser.
  
 ## 2. Problem Statement
 
