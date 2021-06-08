@@ -35,7 +35,7 @@ effect admission into graduate school. The response variable, admit/don’t admi
 
 ## 2.1. Dataset  
 
-[Check out](https://github.com/alicevillar/student_admission_prediction/blob/main/dataset_admissions.csv)  
+[Check out](https://github.com/alicevillar/student_admission_prediction/blob/main/dataset_admissions.csv) the dataset
 
 ## 3. Approach 
 
