@@ -54,7 +54,7 @@ This project is organized in two Chapters:
 - Predicting students admission with Logistic Regression, Decision Tree, SVM (SVC) and Random Forest
 
 * PART 1: Data Handling -> Importing Data with Pandas, Cleaning Data, Data description.
-* PART 2: Data Analysis -> Supervised ML Technique:Logistic Regression, Decision Tree, SVM (SVC) and Random Forest
+* PART 2: Data Analysis -> Supervised ML Technique: Logistic Regression, Decision Tree, SVM (SVC) and Random Forest
 * PART 3: Valuation of the Analysis -> Performance measurement + K-folds cross validation to evaluate results locally + Accuracy comparison graph
  
 ## 4. Dependencies 
