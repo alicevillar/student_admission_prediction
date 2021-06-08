@@ -20,14 +20,12 @@ My project is organized in two Chapters:
 
 #### => Chapter 1 - Predicting students admission with Logistic Regression 
 
-The analysis is divided in three parts: 
 * PART 1: Data Handling -> Importing Data with Pandas, Cleaning Data, Data description.
 * PART 2: Data Analysis -> Supervised ML Technique:Logistic Regression.
 * PART 3: Valuation of the Analysis -> Performance measurement + K-folds cross validation to evaluate results locally.
 
 #### => Chapter 2 - Predicting students admission with Logistic Regression, Decision Tree, SVM (SVC) and Random Forest
 
-he analysis is divided in three parts: 
 * PART 1: Data Handling -> Importing Data with Pandas, Cleaning Data, Data description.
 * PART 2: Data Analysis -> Supervised ML Technique:Logistic Regression, Decision Tree, SVM (SVC) and Random Forest
 * PART 3: Valuation of the Analysis -> Performance measurement + K-folds cross validation to evaluate results locally + Accuracy comparison graph
@@ -41,5 +39,6 @@ he analysis is divided in three parts:
 * [Seaborn](https://seaborn.pydata.org/)
  
 ## Results
- In Chapter 1 the data has shown that one class dominates the other. In such a case, the model will have a hard time learning from data to predict future classes. Thus, I decided to apply a resampling method. After this, I used the Logistic Regression again to the new dataset and another three algorithms: Decision Tree, SVM (SVC) and Random Forest. Finally, I did the Valuation Analisis (Performance Measurement & K-Fold) of all the ML models and compared the accuracy of the different models on a graphic. 
+
+In Chapter 1 the data showed that one class dominates the other. In such a case, the model will have a hard time learning from data to predict future classes. Thus, I decided to apply a resampling method. After this, I used the Logistic Regression again to the new dataset and another three algorithms: Decision Tree, SVM (SVC) and Random Forest. Finally, I did the Valuation Analisis (Performance Measurement & K-Fold) of all the ML models and compared the accuracy of the different models on a graphic. 
  
