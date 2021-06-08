@@ -34,7 +34,8 @@ A researcher is interested in how variables, such as GRE (Graduate Record Exam s
 effect admission into graduate school. The response variable, admit/don’t admit, is a binary variable.This data set has a binary response (outcome, dependent) variable called admit, which is equal to 1 if the individual was admitted to graduate school, and 0 otherwise. There are three predictor variables: gre, gpa, and rank. We will treat the variables gre and gpa as continuous. The variable rank takes on the values 1 through 4. Institutions with a rank of 1 have the highest prestige, while those with a rank of 4 have the lowest. [Source : UCLA](http://stats.idre.ucla.edu/r/dae/logit-regression/)
 
 ## 2.1. Dataset  
-[Check out](          )  
+
+[Check out](https://github.com/alicevillar/student_admission_prediction/blob/main/dataset_admissions.csv)  
 
 ## 3. Approach 
 
@@ -67,4 +68,7 @@ This project is organized in two Chapters:
 ## 5. Results
 
 In Chapter 1 the data showed that one class dominates the other. In such a case, the model will have a hard time learning from data to predict future classes. Thus, I decided to apply a resampling method. After this, I used the Logistic Regression again to the new dataset and another three algorithms: Decision Tree, SVM (SVC) and Random Forest. Finally, I did the Valuation Analisis (Performance Measurement & K-Fold) of all the ML models and compared the accuracy of the different models on a graphic. 
+
+![print](Accuracy Comparison Graph.png)
+
  
