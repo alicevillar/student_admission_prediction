@@ -69,6 +69,6 @@ This project is organized in two Chapters:
 
 In Chapter 1 the data showed that one class dominates the other. In such a case, the model will have a hard time learning from data to predict future classes. Thus, I decided to apply a resampling method. After this, I used the Logistic Regression again to the new dataset and another three algorithms: Decision Tree, SVM (SVC) and Random Forest. Finally, I did the Valuation Analisis (Performance Measurement & K-Fold) of all the ML models and compared the accuracy of the different models on a graphic. 
 
-![print](Accuracy Comparison Graph.png)
+![print](accuracy_comparison_graph.png)
 
  
