@@ -67,7 +67,7 @@ This project is organized in two Chapters:
  
 ## 5. Results
 
-In this project I have applied a widely adopted technique for dealing with unbalanced datasets called resampling. Random Sampling involves creating a new transformed version of the data with a new class distribution. The goal is to reduce the influence of the data on our ML algorithm. Generally, oversampling is preferable as under sampling can result in the loss of important data. I chose to apply oversampling and then use four ML algorithms: Logistic Regression, Decision Tree, SVM (SVC) and Random Forest. To all these modeles I did a Valuation Analisis (Performance Measurement and K-Fold). Finally, I created a graph to compare the accuracy of the different models. I have found the accuracy score with Random forest.
+In this project I have applied a widely adopted technique for dealing with unbalanced datasets called resampling. Random Sampling involves creating a new transformed version of the data with a new class distribution. The goal is to reduce the influence of the data on our ML algorithm. Generally, oversampling is preferable as under sampling can result in the loss of important data. I chose to apply oversampling and then use four ML algorithms: Logistic Regression, Decision Tree, SVM (SVC) and Random Forest. To all these modeles I did a Valuation Analisis (Performance Measurement and K-Fold). Finally, I created a graph to compare the accuracy of the different models. I have found the best accuracy score with Random forest.
 
 
 ![print](accuracy_comparison_graph.png)
