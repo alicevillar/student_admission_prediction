@@ -39,19 +39,15 @@ effect admission into graduate school. The response variable, admit/don’t admi
 
 ## 3. Approach 
 
-This project is organized in two Chapters:
+This project is organized in two Chapters. In Chapter 1 I worked with the original dataset (which was imbalanced). In Chapter 2 I did a resampling (oversampling), repeated the logistic regression and included other algarithms. 
 
-## 3.1. Chapter 1 
-
-- Predicting students admission with Logistic Regression 
+## 3.1. Chapter 1 - Predicting students admission with Logistic Regression 
 
 * PART 1: Data Handling -> Importing Data with Pandas, Cleaning Data, Data description.
 * PART 2: Data Analysis -> Supervised ML Technique:Logistic Regression.
 * PART 3: Valuation of the Analysis -> Performance measurement + K-folds cross validation to evaluate results locally.
 
-## 3.2 Chapter 2 
-
-- Predicting students admission with Logistic Regression, Decision Tree, SVM (SVC) and Random Forest
+## 3.2 Chapter 2 - Predicting students admission with Logistic Regression, Decision Tree, SVM (SVC) and Random Forest
 
 * PART 1: Data Handling -> Importing Data with Pandas, Cleaning Data, Data description.
 * PART 2: Data Analysis -> Supervised ML Technique: Logistic Regression, Decision Tree, SVM (SVC) and Random Forest
