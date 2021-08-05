@@ -11,8 +11,6 @@
 - [2. Problem Statement](#2-problem-statement)
     - [2.1. Dataset](#21-dataset)
 - [3. Approach](#3-approach)
-    - [3.1. Chapter 1](#31-chapter-1)
-    - [3.2. Chapter 2](#32-chapter-2)
 - [4. Dependencies](#4-dependencies)
 - [5. Results](#5-results)
 
