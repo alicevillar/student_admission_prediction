@@ -1,4 +1,4 @@
-<h1Supervised Machine Learning Algorithms for Predicting Student Dropout and Academic Success: A Comparative Study</h1>
+<h1 Supervised Machine Learning Algorithms for Predicting Student Dropout and Academic Success: A Comparative Study</h1>
 
 > In this project, I applied a resampling technique (oversampling) to the imbalanced dataset and compare the performance of different Machine Learning models. I have found the best accuracy score with Random forest (85%)
 
