@@ -1,18 +1,15 @@
-<h1>Predicting students admission with Logistic Regression, Decision Tree, SVM (SVC) and Random Forest</h1>
+<h1Supervised Machine Learning Algorithms for Predicting Student Dropout and Academic Success: A Comparative Study</h1>
 
-> In this project, I applied a resampling technique (oversampling) to the imbalanced dataset and compared the performance of different Machine Learning models. I have found the best accuracy score with Random forest (85%).
+> Purpose:  We used a dataset from a higher education institution to compare various machine learning algorithms for predicting student dropout and academic success. Our focus was on algorithms that can handle imbalanced data effectively.
+Design/Methodology/Approach:  To address class imbalance in the dataset, we use the SMOTE resampling method. We apply Decision Tree (DT), Support Vector Machine (SVM), and Random Forest (RF) as well as boosting algorithms like Gradient Boosting (GB), Extreme Gradient Boosting (XGBoost), CatBoost (CB), and Light Gradient Boosting Machine (LB). We apply hyperparameter tuning using Optuna to further optimize the performance of all supervised algorithms. Finally, we apply Isolation Forest (IF) outliers or anomalies in the dataset. 
+Findings: Boosting algorithms outperformed traditional classification algorithms. LightGBM (LB) performed the best, achieving an F1 score of 88%. However, unsupervised anomaly detection using Isolation Forests did not perform well in identifying outliers from the minority class.
+Research limitations/implications: Our study is limited to a single dataset, and its generalizability to other settings may be limited. 
+Practical implications: The practical implication of this study is that it provides insights into the effectiveness of different machine learning algorithms for predicting student dropout and academic success. 
+Originality/value: This project contributes to the field by benchmarking the performance of various algorithms for predicting student dropout and academic success, which can guide researchers and practitioners in selecting appropriate approaches.
 
 <h1>Table of Contents</h1>
 
-<!-- TOC -->
-
-- [1. Overview](#1-overview)
-    - [1.1. Quick Start](#11-quick-start)
-- [2. Problem Statement](#2-problem-statement)
-    - [2.1. Dataset](#21-dataset)
-- [3. Approach](#3-approach)
-- [4. Dependencies](#4-dependencies)
-- [5. Results](#5-results)
+ 
 
  
 <!-- /TOC -->
